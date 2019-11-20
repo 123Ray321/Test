@@ -2,6 +2,6 @@
 int main()
 {
 std::cout << "Ray!";
-std::cout <<"Other";
+std::cout <<"Other！";
 return 0;
 }

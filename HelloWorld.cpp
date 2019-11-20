@@ -1,11 +1,12 @@
 #include<iostream>
 int main()
 {
-	std::count << "Hello World1!";
-	std::count << "Hello World2!";
-	std::count << "Hello World3!";
-	std::count << "Hello World4!";
-	std::count << "Hello World5!";
-	std::count << "Hello World6!";
+	std::cout << "Hello World1!";
+	std::cout << "Hello World2!";
+	std::cout << "Hello World3!";
+	std::cout << "Hello World4!";
+	std::cout << "Hello World5!";
+	std::cout << "Hello World6!";
+	std::cout << "Test";
 	return 0;
 }
